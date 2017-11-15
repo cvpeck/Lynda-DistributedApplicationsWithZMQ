@@ -1,0 +1,35 @@
+C:\Developer\zmq_csharp\source\02_03_After\ChatZ.Common\bin\Debug\chatz.common.xml
+C:\Developer\zmq_csharp\source\02_03_After\ChatZ.Common\bin\Debug\chatz.common.dll
+C:\Developer\zmq_csharp\source\02_03_After\ChatZ.Common\bin\Debug\chatz.common.pdb
+C:\Developer\zmq_csharp\source\02_03_After\ChatZ.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Developer\zmq_csharp\source\02_03_After\ChatZ.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Developer\zmq_csharp\source\02_03_After\ChatZ.Common\obj\Debug\ChatZ.Common.csprojResolveAssemblyReference.cache
+C:\Developer\zmq_csharp\source\02_03_After\ChatZ.Common\obj\Debug\chatz.common.dll
+C:\Developer\zmq_csharp\source\02_03_After\ChatZ.Common\obj\Debug\chatz.common.pdb
+C:\Developer\zmq_csharp\source\06_02_End\ChatZ.Common\bin\Debug\chatz.common.xml
+C:\Developer\zmq_csharp\source\06_02_End\ChatZ.Common\bin\Debug\chatz.common.dll
+C:\Developer\zmq_csharp\source\06_02_End\ChatZ.Common\bin\Debug\chatz.common.pdb
+C:\Developer\zmq_csharp\source\06_02_End\ChatZ.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Developer\zmq_csharp\source\06_02_End\ChatZ.Common\bin\Debug\System.ValueTuple.dll
+C:\Developer\zmq_csharp\source\06_02_End\ChatZ.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Developer\zmq_csharp\source\06_02_End\ChatZ.Common\obj\Debug\ChatZ.Common.csprojResolveAssemblyReference.cache
+C:\Developer\zmq_csharp\source\06_02_End\ChatZ.Common\obj\Debug\chatz.common.dll
+C:\Developer\zmq_csharp\source\06_02_End\ChatZ.Common\obj\Debug\chatz.common.pdb
+C:\Developer\zmq_csharp\source\02_03_End\ChatZ.Common\bin\Debug\chatz.common.xml
+C:\Developer\zmq_csharp\source\02_03_End\ChatZ.Common\bin\Debug\chatz.common.dll
+C:\Developer\zmq_csharp\source\02_03_End\ChatZ.Common\bin\Debug\chatz.common.pdb
+C:\Developer\zmq_csharp\source\02_03_End\ChatZ.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Developer\zmq_csharp\source\02_03_End\ChatZ.Common\bin\Debug\System.ValueTuple.dll
+C:\Developer\zmq_csharp\source\02_03_End\ChatZ.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Developer\zmq_csharp\source\02_03_End\ChatZ.Common\obj\Debug\ChatZ.Common.csprojResolveAssemblyReference.cache
+C:\Developer\zmq_csharp\source\02_03_End\ChatZ.Common\obj\Debug\chatz.common.dll
+C:\Developer\zmq_csharp\source\02_03_End\ChatZ.Common\obj\Debug\chatz.common.pdb
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\02_03\End\ChatZ.Common\bin\Debug\chatz.common.xml
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\02_03\End\ChatZ.Common\bin\Debug\chatz.common.dll
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\02_03\End\ChatZ.Common\bin\Debug\chatz.common.pdb
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\02_03\End\ChatZ.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\02_03\End\ChatZ.Common\bin\Debug\System.ValueTuple.dll
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\02_03\End\ChatZ.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\02_03\End\ChatZ.Common\obj\Debug\ChatZ.Common.csprojResolveAssemblyReference.cache
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\02_03\End\ChatZ.Common\obj\Debug\chatz.common.dll
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\02_03\End\ChatZ.Common\obj\Debug\chatz.common.pdb

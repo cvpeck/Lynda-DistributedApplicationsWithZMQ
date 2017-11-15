@@ -1,0 +1,8 @@
+C:\Developer\zmq_csharp\source\06_02_End\ChatZ.Common\bin\Release\chatz.common.xml
+C:\Developer\zmq_csharp\source\06_02_End\ChatZ.Common\bin\Release\chatz.common.dll
+C:\Developer\zmq_csharp\source\06_02_End\ChatZ.Common\bin\Release\chatz.common.pdb
+C:\Developer\zmq_csharp\source\06_02_End\ChatZ.Common\bin\Release\Newtonsoft.Json.dll
+C:\Developer\zmq_csharp\source\06_02_End\ChatZ.Common\bin\Release\System.ValueTuple.dll
+C:\Developer\zmq_csharp\source\06_02_End\ChatZ.Common\bin\Release\Newtonsoft.Json.xml
+C:\Developer\zmq_csharp\source\06_02_End\ChatZ.Common\obj\Release\chatz.common.dll
+C:\Developer\zmq_csharp\source\06_02_End\ChatZ.Common\obj\Release\chatz.common.pdb
