@@ -1,0 +1,12 @@
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\01_03\Begin\PingPong\bin\Debug\libzmq.dll
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\01_03\Begin\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\01_03\Begin\PingPong\bin\Debug\PingPong.exe
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\01_03\Begin\PingPong\bin\Debug\PingPong.pdb
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\01_03\Begin\PingPong\bin\Debug\FSharp.Core.dll
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\01_03\Begin\PingPong\bin\Debug\fszmq.dll
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\01_03\Begin\PingPong\bin\Debug\System.ValueTuple.dll
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\01_03\Begin\PingPong\bin\Debug\FSharp.Core.xml
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\01_03\Begin\PingPong\bin\Debug\fszmq.xml
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\01_03\Begin\PingPong\obj\Debug\PingPong.csprojResolveAssemblyReference.cache
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\01_03\Begin\PingPong\obj\Debug\PingPong.exe
+C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\01_03\Begin\PingPong\obj\Debug\PingPong.pdb
