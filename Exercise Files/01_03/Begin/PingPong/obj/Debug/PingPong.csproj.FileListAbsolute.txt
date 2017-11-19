@@ -10,3 +10,6 @@ C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\01_03\Begin\PingPong\bi
 C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\01_03\Begin\PingPong\obj\Debug\PingPong.csprojResolveAssemblyReference.cache
 C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\01_03\Begin\PingPong\obj\Debug\PingPong.exe
 C:\Users\Paul Blasucci\Documents\LinkedInLearning\source\01_03\Begin\PingPong\obj\Debug\PingPong.pdb
+C:\Users\User\Documents\Lynda\Ex_Files_zeroMQ\Exercise Files\01_03\Begin\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\User\Documents\Lynda\Ex_Files_zeroMQ\Exercise Files\01_03\Begin\PingPong\obj\Debug\PingPong.exe
+C:\Users\User\Documents\Lynda\Ex_Files_zeroMQ\Exercise Files\01_03\Begin\PingPong\obj\Debug\PingPong.pdb
