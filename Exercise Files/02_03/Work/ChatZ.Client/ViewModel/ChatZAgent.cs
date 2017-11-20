@@ -12,10 +12,13 @@ namespace ChatZ.Client
 {
   public static class Proxy
   {
-    public static Task Start(Config config, CancellationToken token) 
-      => Task.Run(() => 
-      {
-        // initialize context
+        private static readonly Subject<ServerMessage.List> userStream_ = new Subject<ServerMessage.List>();
+
+        public static Task Start(Config config, CancellationToken token) 
+            => Task.Run(() =>  
+            {
+            // initialize context
+            using (var context = new Context())
 
           // configure control socket
           

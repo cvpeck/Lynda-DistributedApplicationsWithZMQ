@@ -1,0 +1,2 @@
+C:\Users\User\Documents\Lynda\Ex_Files_zeroMQ\Exercise Files\02_03\Work\ChatZ.Server\bin\Debug\chatzsrv.exe.config
+C:\Users\User\Documents\Lynda\Ex_Files_zeroMQ\Exercise Files\02_03\Work\ChatZ.Server\obj\Debug\ChatZ.Server.csprojResolveAssemblyReference.cache
