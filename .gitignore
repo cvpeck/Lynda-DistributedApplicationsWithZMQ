@@ -1,0 +1,10 @@
+Exercise Files/02_03/Work/ChatZ.Client/bin/Debug/
+Exercise Files/02_03/Work/ChatZ.Client/obj/Debug/
+Exercise Files/02_03/Work/ChatZ.Common/bin/Debug/Newtonsoft.Json.dll
+Exercise Files/02_03/Work/ChatZ.Common/bin/Debug/
+Exercise Files/02_03/Work/ChatZ.Server/bin/Debug/System.Reactive.Core.xml
+Exercise Files/02_03/Work/ChatZ.Server/bin/Debug/System.Reactive.Linq.xml
+Exercise Files/02_03/Work/ChatZ.Server/bin/Debug/
+*.cache
+Exercise Files/02_03/Work/ChatZ.Server/obj/Debug/
+Exercise Files/02_03/Work/.vs/Chapter 2/v15/Server/sqlite3/

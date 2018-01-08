@@ -17,16 +17,34 @@ namespace ChatZ.Client
         public static Task Start(Config config, CancellationToken token) 
             => Task.Run(() =>  
             {
-            // initialize context
-            using (var context = new Context())
+                // initialize context
+                using (var context = new Context())
+                {
 
-          // configure control socket
-          
-          // poll in a loop (unless told to shutdown)
-          while (!token.IsCancellationRequested) 
-          { 
-    
-          }
+                    // configure control socket
+                    var ctlSock = context.Dealer();
+                    ctlSock.SetOption(ZMQ.IDENTITY, config.Handle);
+                    ctlSock.SetOption(ZMQ.RCVTIMEO, config.Timeout);
+                    ctlSock.Connect(config.Control);
+                    // poll in a loop (unless told to shutdown)
+                    while (!token.IsCancellationRequested)
+                    {
+                        try
+                        {
+                            ctlSock.SendAll(HereMessage());
+
+                            var reply = ServerMessage.Decode(ctlSock.RecvAll());
+                            if (reply is ServerMessage.List msg)
+                            {
+                                userStream_.OnNext(msg);
+                            }
+                        }
+                        catch (TimeoutException)
+                        {
+                            WriteLine("Timeout when waiting for reply");
+                        }
+                    }
+                }
       }
       , token);
     
